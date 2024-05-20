@@ -10,7 +10,7 @@ Open `CMD` and copy:
 
 ## Ceaser shift
 
-Link za encrypcijo decripcijo ceasrjeve številke (Crypto)[https://www.dcode.fr/caesar-cipher].
+Link za encrypcijo decripcijo ceasrjeve številke [Crypto](https://www.dcode.fr/caesar-cipher).
 
 ## Diffie-Hellman
 
